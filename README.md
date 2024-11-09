@@ -22,7 +22,7 @@ A lightweight Android app for reading Wikipedia articles distraction-free
 
 Supports light mode, dark mode and Material You dynamic colors
 
-**This fork: testing changes on text formatting, hyperlinks and opening wikipedia links**
+**This fork: testing changes on text formatting, hyperlinks, opening wikipedia links and multi-language support**
 
 
 </div>
